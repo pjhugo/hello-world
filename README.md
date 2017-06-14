@@ -1,2 +1,9 @@
 # hello-world
-hello, I'm still a "little white".
+
+Hi everyone!
+
+My name is Juhao Pan, and you can just call me Hugo.
+
+I'd like to learn programming, as a beginner.
+
+Hello world! lol
